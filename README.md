@@ -25,6 +25,13 @@ Verify:
 Verify:
 `eksctl version`
 
+# Git Process
+- merge a branch to main/master branch
+`git checkout main`
+`git pull orgin main`
+`git merge dev`
+`git push origin main`
+
 
 Steps to runs:
 At root dir run `terraform init`
