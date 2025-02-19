@@ -32,6 +32,9 @@ Verify:
 `git merge dev`
 `git push origin main`
 
+- Checkout branch and updating changes from the main/master branch
+`git checkout dev`
+`git pull origin main`
 
 Steps to runs:
 At root dir run `terraform init`
